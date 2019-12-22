@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido por uma dupla de alunos da **UNIFESSPA** fruto de 
 
 São métodos iterativos ou de aproximação fornecem uma alternativa aos métodos de eliminação. A proposta do metódo é obter valores que satisfaçam simultaneamente um conjunto de equações.
 
-### O primeiro passo do método isolar os termos para obter uma função para cada variavel
+## O primeiro passo do método isolar os termos para obter uma função para cada variavel
 
 ![Isolar variaveis](https://github.com/anselmomendes/Implementacao-metodo-de-Gauss-Seidel/blob/master/imagens/001.jpg)
 
@@ -51,7 +51,7 @@ O programa deve retornar o tamanho da matriz que deve ser preenchida, as posiç�
 Logo apos deve ser inserido cada um dos termos da matriz conforme citado anteriormente;
 
 
-### Exemplo
+## Exemplo
 
 ![Alimentação da matriz](https://github.com/anselmomendes/Implementacao-metodo-de-Gauss-Seidel/blob/master/imagens/008.jpg)
 
@@ -71,3 +71,7 @@ A diferença entre o resultado real  e o encontrado são:
 * Temos a intenção de usar alguma biblioteca grafica para obter uma interface gráfica.
 * Melhorar a escrita do código atraves de tecnicas de cleanCode.
 
+##Autores
+
+[Anselmo Mendes](https://github.com/anselmomendes)
+[Fernando Freire](https://github.com/fernandofreire01)

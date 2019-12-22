@@ -42,6 +42,7 @@ void insere_matriz(Sistema** s, int n, int m){
 
 //Calcula solução para matriz usando o método de Gaus Seidel
 void calcula_matriz(Sistema** s, int n, int m, double erro){
+	int cont = 0;
 	double b;
 	//Cria vetor que armazena o resultado final;
 	v = (double*) malloc(n*(sizeof(double)));
@@ -79,8 +80,11 @@ void calcula_matriz(Sistema** s, int n, int m, double erro){
 	total = 0;
 	i++;
 	controle++;
-	b = (((v_aux[0]) - (v[0]))/(v_aux[0]));
+	cont = n;
+	for(cont = 0; cont > 0; cont++){
+	b = (((v_aux[cont]) - (v[cont]))/(v_aux[cont]));
 	if(b < 0) b = -b; // módulo do |V[n] - V[n-1]|
+	}
 	//Atribui os valores da interação atual a matriz solução v[n]
 	if(i==n){
 		i=0;

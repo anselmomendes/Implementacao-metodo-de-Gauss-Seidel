@@ -71,7 +71,8 @@ A diferença entre o resultado real  e o encontrado são:
 * Temos a intenção de usar alguma biblioteca grafica para obter uma interface gráfica.
 * Melhorar a escrita do código atraves de tecnicas de cleanCode.
 
-##Autores
+## Autores
 
-[Anselmo Mendes](https://github.com/anselmomendes)
-[Fernando Freire](https://github.com/fernandofreire01)
+- [Anselmo Mendes](https://github.com/anselmomendes)
+
+- [Fernando Freire](https://github.com/fernandofreire01)

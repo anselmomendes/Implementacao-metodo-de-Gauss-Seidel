@@ -63,11 +63,12 @@ O resultado da equação encontrado está presente abaixo.
 
 A diferença entre o resultado real  e o encontrado são:
 
--  3 -> 2,97
-- -2,5 ->-3,09
--  7 -> 6,98
+-  3 -> 3,000806
+- -2,5 ->-2,499738
+-  7 -> 7,000207
 
-* O software ainda ira passar por melhorias para obedecer todos os criterios dos erros, e não apenas de uma variavel.
+## Melhorias
+
 * Temos a intenção de usar alguma biblioteca grafica para obter uma interface gráfica.
 * Melhorar a escrita do código atraves de tecnicas de cleanCode.
 

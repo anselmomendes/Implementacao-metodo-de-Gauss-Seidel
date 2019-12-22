@@ -11,7 +11,7 @@ void calcula_matriz(Sistema** s, int n, int m, double erro);
 //Calcula utilizando o metodo de Gaus_Seidel;
 
 void libera_matriz(Sistema** s, int n);
-//Libera a memória alocada para a matriz;
+//Libera a memï¿½ria alocada para a matriz;
 
 void imprime_matriz(Sistema** s, int n, int m);
 //Imprime a matriz;

@@ -1,4 +1,4 @@
-# Implementação do metódo de numérico de Gauss-Seidel
+# Implementação do método de numérico de Gauss-Seidel
 
 Esse projeto foi desenvolvido por uma dupla de alunos da **UNIFESSPA** fruto de um trabalho de disciplina de **Cálculo numérico** no qual foi necessário realizar a implementação do método utilizando uma linguagem livre. O projeto foi escrito em **C** e possui:
 * TAD;

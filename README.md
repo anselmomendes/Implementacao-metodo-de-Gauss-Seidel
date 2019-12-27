@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido por uma dupla de alunos da **UNIFESSPA** fruto de 
 * Alocação dinâmica;
 * Ponteiros.
 
-## Metódo de Gauss-Seidel
+## Método de Gauss-Seidel
 
 São métodos iterativos ou de aproximação fornecem uma alternativa aos métodos de eliminação. A proposta do método é obter valores que satisfaçam simultaneamente um conjunto de equações.
 
